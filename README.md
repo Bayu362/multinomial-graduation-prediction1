@@ -1,4 +1,4 @@
-# Hi, I'm Bayu 👋
+# Hi, I'm Muhamad Bayu Ramdhani 👋
 
 **Mathematics Graduate · Data Analyst · Statistical Modeler**
 UIN Maulana Malik Ibrahim Malang — S.Mat, 2025
