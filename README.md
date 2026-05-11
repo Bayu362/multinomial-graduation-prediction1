@@ -71,8 +71,6 @@ Data Collection → Cleaning & Dummy Coding → Multicollinearity Check (VIF)
 | Degree | Institution | Year |
 |---|---|---|
 | S.Mat — Mathematics | UIN Maulana Malik Ibrahim Malang | 2021 – 2025 |
-| Senior High School | SMA Muhammadiyah 4 Jakarta | 2018 – 2021 |
-| Junior High School | MTsN 14 Jakarta | 2015 – 2018 |
 
 **Thesis Advisors:**
 - Dr. Fachrur Rozi, M.Si. *(Advisor I & Head of Mathematics Study Program)*
