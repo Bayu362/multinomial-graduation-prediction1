@@ -84,8 +84,8 @@ Data Collection → Cleaning & Dummy Coding → Multicollinearity Check (VIF)
 
 > *Feel free to reach out for collaboration, research discussion, or job opportunities.*
 
-[![LinkedIn](https://www.linkedin.com/in/m-bayu-ramdhani-931861221)
-[![Email](mailto:muhamadbayuramdhani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bayu-ramdhani-931861221)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhamadbayuramdhani@gmail.com)
 
 ---
 
